@@ -4,8 +4,6 @@ title: Scoring Methodology
 permalink: /scoring/
 ---
 
-# Scoring Methodology
-
 In 2015, [Cincinnati Magazine ranked the best burgers in the city](http://www.cincinnatimagazine.com/forkopolisblog/how-we-did-it-burger-binge-2015/).  They did such a fantastic job, we decided to take some pointers from them.
 
 That's right, we're going granular.  But we've included some flexibility in the scoring for the overall experience of 3-ways, Cheese Coneys, Toppings, and Execution.
